@@ -1,0 +1,9 @@
+.header{
+    width: 100%;
+    background-color: gray;
+    height: 300px;
+    text-align: center;
+    line-height: 300px;
+    font-size: 40px;
+    font-weight: 700;
+}
